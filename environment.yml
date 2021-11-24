@@ -1,0 +1,11 @@
+name: bt2118
+
+dependencies:
+  - jupyter
+  - matplotlib
+  - pip
+  - pip:
+    - escher
+    - cplex
+    - reframed
+    - mewpy
