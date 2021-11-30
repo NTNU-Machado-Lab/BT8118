@@ -1,6 +1,8 @@
 name: bt8118
 
 dependencies:
+  - pandas
   - pip
   - pip:
-    - -r requirements.txt
+    - mewpy
+    - escher
