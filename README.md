@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNU-Machado-Lab/BT8118/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNU-Machado-Lab/BT8118/HEAD?urlpath=tree/)
 
 # **BT8118** - Metabolic Pathway Analysis
 
