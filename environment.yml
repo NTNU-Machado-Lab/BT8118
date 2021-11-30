@@ -1,0 +1,6 @@
+name: bt8118
+
+dependencies:
+  - pip
+  - pip:
+    - -r requirements.txt
